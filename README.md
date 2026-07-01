@@ -2,7 +2,6 @@
 </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dirlan-ferreira)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dirlanf/)
 
 <img align="right" src="https://i.imgur.com/FHg0vfy.png" width="30%"/> 
 <h3 align="left" width="45%">About me:</h3>
